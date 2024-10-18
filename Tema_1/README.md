@@ -27,6 +27,10 @@ Acest proiect simulează funcționarea unei stații de încărcare utilizând un
 ![Setup Image 2](./res/img2.jpg)
 ![Setup Image 3](./res/img3.jpg)
 
+## Diagrama Wokwi
+
+![Wokwi Screenshot](./res/wokwi.png)
+
 ## Video
 
-[Watch the project video](./res/vid.mp4)
+[![Watch the project video](https://img.youtube.com/vi/j3J-9VRdEUU/0.jpg)](https://www.youtube.com/watch?v=j3J-9VRdEUU)
