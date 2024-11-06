@@ -82,6 +82,7 @@ void checkStopButton(unsigned long currentMillis) {
 
   // If stop button is pressed during loading, end the process
   if (stopPressed && loading) {
+    blinkAllLeds(currentMillis);
     stopLoading();
     stopPressed = false;
   }
