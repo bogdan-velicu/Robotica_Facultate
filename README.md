@@ -5,3 +5,4 @@ Acest repository conține toate temele și proiectele dezvoltate în cadrul curs
 ## Structura
 - [**Tema 1**](./Tema_1) - Simulare Stație de Încărcare cu Arduino UNO
 - [**Tema 2**](./Tema_2) - TypeRacer cu Arduino UNO
+- [**Tema 3**](./Tema_3) - Comunicare SPI Arduino
